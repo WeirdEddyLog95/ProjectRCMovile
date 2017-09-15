@@ -29,7 +29,7 @@ para lograr controlar múltiples coches
 
 ### Diseño preliminar de la aplicación móvil de control universal para coche eléctricos 
 Para esto se realizó los siguientes Sketches para este proyecto 
-![alt text](https://github.com/WeirdEddyLog95/ProjectRCMovile/blob/master/ProConHorizontal.png) 
+![alt text](https://github.com/WeirdEddyLog95/ProjectRCMovile/blob/master/ProConHorizontal.png)
 
 ### Interfaz del Controlador Móvil
 En este Sketch, se mira como estará el diseño de la pantalla controladora del coche eléctrico,  
@@ -67,3 +67,4 @@ que se explicó en el párrafo anterior se aplica también aquí.
 
 ### Representación Gráfica, lo que se trata de hacer en este proyecto 
 Esta imagen es para ver de manera grafica, lo que este proyecto tratara de hacer
+![alt text](https://github.com/WeirdEddyLog95/ProjectRCMovile/blob/master/Proyecto,RepGrafico.png)
